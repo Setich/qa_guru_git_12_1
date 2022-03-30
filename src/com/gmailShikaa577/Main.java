@@ -6,4 +6,7 @@ public class Main {
         System.out.println("Привет, как дела?");
         System.out.println("- Все хорошо");
     }
+    public static void another(){
+        System.out.println("- Все плохо");
+    }
 }
