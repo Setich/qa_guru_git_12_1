@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Точно?");
     }
     public static void another(){
-        System.out.println("- Все плохо");
+        System.out.println("- Все Очень Плохо");
     }
 }
