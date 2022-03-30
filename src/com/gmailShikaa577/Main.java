@@ -7,4 +7,7 @@ public class Main {
         System.out.println("- Все хорошо");
         System.out.println("Точно?");
     }
+    public static void another(){
+        System.out.println("- Все плохо");
+    }
 }
